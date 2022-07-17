@@ -1,5 +1,12 @@
-transformers==4.5.0
+transformers
 pytorch-lightning==1.2.7
 seaborn
 wandb
 sklearn
+pandas
+json
+pathlib
+textwrap
+seaborn
+pylab
+matplotlib
