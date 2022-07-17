@@ -1,0 +1,7 @@
+webnlg_data
+webNLG2020_train.csv
+webNLG2020_test.csv
+webNLG2020_dev.csv
+wandb/
+.ipynb_checkpoints
+.DS_Store
